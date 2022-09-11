@@ -98,8 +98,11 @@ body {
 }
 
 .attribution {
-    text-align: center;
-    font-size: 12px;
+        font-size: 11px;
+        text-align: center;
+    }
+.attribution a {
+        color: hsl(228, 45%, 44%);
 }
 
 @media screen and (max-width:760px) {
