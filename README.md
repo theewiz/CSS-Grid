@@ -1,4 +1,4 @@
-# CSS-Grid
+# CSS-Grids
 This project helped me understand CSS Grids in-depth, and how to structure content
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
