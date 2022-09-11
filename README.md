@@ -4,7 +4,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Overview
 
-  This was a practice project to improve my knowledge of CSS Grids, and also get to practice developing for various screen sizes - Desktop and Mobile. It involved creating a testimonial page
+  This was a practice project to improve my knowledge of CSS Grids, and also get to practice developing for various screen sizes - Desktop and Mobile. It involved creating a responsive testimonial page.
 
 ### The challenge
 
