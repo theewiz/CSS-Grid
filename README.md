@@ -15,7 +15,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Screenshot
 
-![Screenshot](./images/ScrnSht.png.jpg) 
+![Screenshot](images/ScrnSht.png.jpg) 
 
 
 ### Links
