@@ -9,12 +9,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     background-color: hsl(210, 46%, 96%);
-    height: 85vh;
+    height: 80vh;
 }
 
 .testimonials {
     max-width: 1440px;
-    margin: 40px auto;
+    margin: 50px auto;
     padding: 20px;
 
     display: grid;
