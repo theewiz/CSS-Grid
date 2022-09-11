@@ -97,6 +97,7 @@ body {
     grid-row: 1 / 3 ;
 }
 
+<<<<<<< HEAD
 .attribution {
         font-size: 11px;
         text-align: center;
@@ -104,6 +105,15 @@ body {
 .attribution a {
         color: hsl(228, 45%, 44%);
 }
+=======
+ .attribution {
+        font-size: 11px;
+        text-align: center;
+      }
+ .attribution a {
+        color: hsl(228, 45%, 44%);
+      }
+>>>>>>> a6e16ac6f665acc51d4da8a12fbc95dc42de6a42
 
 @media screen and (max-width:760px) {
     .testimonials {
